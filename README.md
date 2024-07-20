@@ -17,6 +17,7 @@ Now that youre inside Cascadeur you can download the scene and start animating (
 Once your animation is done, you need to export it to blender, to do that we use the CSC Bridge.
 To install it go to Blender, Edit> Preferences> Add-Ons And Install, select the zip file you downloaded.
 Once youve done that, the csc bridge addon will appear, select your cascadeur executable (cascadeur.exe) and click install requirements, and youre done.
+
 ![image](https://github.com/user-attachments/assets/f44c6c1b-eab1-462c-8b8a-a36949f70a5c)
 
 # Importing your animation to Blender
