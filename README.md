@@ -7,6 +7,7 @@ And download the CSC Bridge plugin for Blender (https://github.com/arcsikex/casc
 
 Create your account in Cascadeur, and once youre in go to Help> Claim indie license, now you can export your animations to blender
 (note that this only lasts for 14 days, so when the times over, you either create a new account, or animate in blender)
+
 ![image](https://github.com/user-attachments/assets/5ed79ddc-5848-4951-a130-030de7f6ae41)
 
 Now that youre inside Cascadeur you can download the scene and start animating (search for tutorials if you dont know how to)
